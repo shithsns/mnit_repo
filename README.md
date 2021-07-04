@@ -1,1 +1,1 @@
-# mnit_repo
+# mnit_repo for training
